@@ -11,10 +11,10 @@ A multi-faceted closed-loop web application that supports stay upload, delete, s
 
 • Implemented token-based server side user authentication with Spring Security framework.
 
-Getting Started with Create React App
+# Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
-Available Scripts
+## Available Scripts
 In the project directory, you can run:
 
 npm start
